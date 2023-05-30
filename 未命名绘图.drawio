@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T08:17:10.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KvDK9a-F-N9aNkTsXEjx" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T08:29:50.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QMotgv7f0xCePclKbRvh" version="21.3.5" type="github">
   <diagram name="第 1 页" id="aCC6pnRYH2_EHxmpgSvB">
     <mxGraphModel dx="2253" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NnMgyRyrDesN2CqXnR3g-32" value="是否是竖屏" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="NnMgyRyrDesN2CqXnR3g-32" value="&quot;goodsShowType&quot;: &quot;HalfScreen&quot;&lt;br&gt;且&lt;br&gt;非横屏状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="270" y="410" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NnMgyRyrDesN2CqXnR3g-35" value="展示广告面板" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;rounded=1;strokeWidth=2;fontColor=#ffffff;" parent="1" vertex="1">
