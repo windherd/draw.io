@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T11:18:15.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TVcpq4slBsvEvfHg2bUE" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T02:18:01.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="74PvHApSgircQLBB7TO0" version="21.6.6" type="github">
   <diagram name="第 1 页" id="4qfFsPyxx4dfJa_MOBMq">
     <mxGraphModel dx="1253" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjEpLJ4TStjCKaL1cNmp-23" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;解析时需要&lt;/p&gt;pegasusdata依赖 adcommon&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;br&gt;&lt;/span&gt;&lt;br&gt;构造 AdBannerItem 时&lt;br&gt;adcommon 依赖 pegasusdata&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="160" y="455" width="230" height="155" as="geometry" />
+        <mxCell id="KjEpLJ4TStjCKaL1cNmp-23" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;解析时需要&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;pegasusdata依赖 adcommon&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;br&gt;&lt;/span&gt;&lt;br&gt;构造 AdBannerItem 时&lt;br&gt;adcommon 依赖 pegasusdata&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="160" y="455" width="230" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
